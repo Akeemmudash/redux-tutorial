@@ -2,7 +2,7 @@
 
 This is a clean and responsive **React + Redux Toolkit** counter app, styled with **Tailwind CSS** and **DaisyUI**. The app allows users to increment, decrement, and change the count by a custom amount.
 
-> ✅ Hosted on Netlify: [Live Demo](https://redux-counter-app.netlify.app/)
+> ✅ Hosted on Netlify: [Live Demo](https://redux-simple-counter-app.netlify.app/)
 
 ---
 
